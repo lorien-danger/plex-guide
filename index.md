@@ -22,7 +22,7 @@ After clicking the invitation link and authorizing, you should see a screen that
 shows "Manage Library Access" with your username and a message indicating you
 have access to libraries.
 
-![Confirmation screen showing you have access to the server](./images/1.png)
+![Confirmation screen showing you have access to the server](./images/plex_1.png)
 _Confirmation screen showing you have access to the server_
 
 This confirms you now have access to my Plex server\! The next steps will help
@@ -33,7 +33,8 @@ you configure your settings for the best experience.
 During the initial setup, you'll be prompted to customize your media sidebar. I
 recommend unchecking the Plex "bloat" features and only keeping the essentials:
 
-![Uncheck these three boxes](./images/2.png) _Uncheck the highlighted options_
+![Uncheck these three boxes](./images/plex_2.png) _Uncheck the highlighted
+options_
 
 ### Why remove these options?
 
@@ -54,14 +55,14 @@ Then click "Finish Setup" to continue.
 
 Next, you'll see a popup about sharing your watch history:
 
-![Click the second option](./images/3.jpeg) _Select "Don't send me activity
+![Click the second option](./images/plex_3.jpeg) _Select "Don't send me activity
 digests"_
 
 1. Click the second option "Don't send me activity digests" to prevent Plex from
    sending you regular email notifications about what others are watching
 2. This will open a digest frequency configuration screen:
 
-![Click Off](./images/4.png) _Select "Off" to disable notifications_
+![Click Off](./images/plex_4.png) _Select "Off" to disable notifications_
 
 3. Select "Off" to disable these email notifications completely
 4. Then click "Save" to confirm your choice
@@ -71,7 +72,7 @@ digests"_
 Finally, you'll be returned to the watch history screen. Click "Save My Choices"
 to finalize all your settings:
 
-![Click Save My Choices](./images/5.jpeg)
+![Click Save My Choices](./images/plex_5.jpeg)
 
 ## Using the Plex Interface
 
@@ -80,7 +81,7 @@ to finalize all your settings:
 After setup, you'll see the main interface with content categories in the
 sidebar:
 
-![Movies interface showing downloaded content](./images/6.png) _The movies
+![Movies interface showing downloaded content](./images/plex_6.png) _The movies
 interface showing downloaded content_
 
 Click on "Movies" or "TV Shows" in the sidebar to browse available content. All
@@ -90,7 +91,7 @@ the movies and shows are downloaded onto my server for reliable streaming.
 
 For a complete list of all movies:
 
-![Library view showing all movies](./images/7.png)
+![Library view showing all movies](./images/plex_7.png)
 
 1. Click on "Movies" in the sidebar
 2. Then click the "Library" tab at the top
@@ -102,7 +103,7 @@ For a complete list of all movies:
 
 If you see an empty home screen like this:
 
-![Empty home screen](./images/8.png)
+![Empty home screen](./images/plex_8.png)
 
 The invitation may not have been properly accepted. You'll need to manually
 accept the invitation:
@@ -114,13 +115,13 @@ accept the invitation:
 
 If you need to manually accept the invitation:
 
-![Manage Library Access in sidebar](./images/9.png)
+![Manage Library Access in sidebar](./images/plex_9.png)
 
 1. Click "Manage Library Access" in the sidebar as shown
 
 Then on the invitation screen:
 
-![Accept invitation](./images/10.png)
+![Accept invitation](./images/plex_10.png)
 
 1. Look for my username under "Library Invitations Received"
 2. Click the tick icon to accept the invitation
